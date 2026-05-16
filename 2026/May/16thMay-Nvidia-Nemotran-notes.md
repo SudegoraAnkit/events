@@ -91,6 +91,8 @@ HydPy is hosting an NVIDIA Nemotron 3 Super Workshop - India
 - https://developer.nvidia.com/blog/introducing-nemotron-3-super-an-open-hybrid-mamba-transformer-moe-for-agentic-reasoning/
 - https://developer.nvidia.com/
 - https://github.com/ai-dynamo/dynamo
+- https://github.com/scitix/InstantTensor
+
 
 ## Questions to Find Answers
 - What exactly is NVIDIA Nemotron and how is it positioned versus other foundation model families?
@@ -104,3 +106,13 @@ HydPy is hosting an NVIDIA Nemotron 3 Super Workshop - India
 - What does block-based scaling mean in NVIDIA, and how does the scaling factor work?
 - How are guardrails implemented for speech-to-speech with low latency?
 - What are the best open-source and NVIDIA resources for Nemotron, Magpie TTS, and voice agents?
+
+----
+# NVIDIA Developer Program
+
+NVIDIA Developer Program
+- DGX Spark
+- Enforce Eager (Never to do in Production)
+- Constraint Decoding
+- GDDR | MDNS | LPDDR | HBM
+
